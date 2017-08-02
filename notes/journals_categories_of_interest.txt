@@ -1,0 +1,63 @@
+## Medical fields
+Anesthesiology and Pain Medicine
+Cardiology and Cardiovascular Medicine
+Critical Care and Intensive Care Medicine
+Dermatology
+Emergency Medicine
+Endocrinology
+Family Practice
+Gastroenterology
+Genetics (clinical)
+Geriatrics and Gerontology
+Gerontology
+Hematology
+Hepatology
+Internal Medicine
+Microbiology (medical)
+Nephrology
+Neurology
+Neurology (clinical)
+Obstetrics and Gynecology
+Oncology
+Optometry
+Orthopedics and Sports Medicine
+Otorhinolaryngology
+Pediatrics
+Pathology and Forensic Medicine
+Pediatrics, Perinatology and Child Health
+Pharmacology (Medical)
+Podiatry
+Psychiatric Mental Health
+Psychiatry and Mental Health
+Pulmonary and Respiratory Medicine
+Radiology, Nuclear Medicine and Imaging
+Reproductive Medicine
+Pheumatology
+Surgery
+Urology
+
+## Dental
+Dentistry (miscellaneous)
+Oral Surgery
+Orthodontics
+
+## Consider including
+Clinical Psychology
+Emergency Medical Services
+Epidemiology
+Endocrine and Autonomic Systems
+Endocrinology, Diabetes and Metabolism
+Health Professions (miscellaneous)
+Health (social science)
+Health, Toxicology and Mutagenesis
+Immunology
+Immunology and Allergy
+Medicine (miscellaneous)
+Molecular Medicine
+
+
+
+## Alternative medicine
+Chiropractics
+Complementary and Alternative Medicine
+Complementary and Manual Therapy
